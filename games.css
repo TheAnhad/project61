@@ -1,0 +1,11 @@
+#g
+{
+	transition: transform .5s;
+}
+#g:bounce
+{
+	transform: scale(0.9);
+}
+body
+{
+	text-align:center;

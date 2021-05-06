@@ -1,0 +1,12 @@
+#g1
+{
+	transition: transform .2s;
+}
+#g1:hover
+{
+	transform: scale(0.9);
+}
+body
+{
+	text-align:center;
+}
